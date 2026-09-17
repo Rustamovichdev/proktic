@@ -22,8 +22,9 @@ body{
     padding: 15px;
     background-color: aqua;
     border-radius: 8px;
-    outline: none;
+    
 }
 .wrap input{
     padding: 15px;
+    outline: none;
 }
