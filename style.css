@@ -17,3 +17,9 @@ body{
     justify-content: center;
     gap: 10px;
 }
+.wrap button{
+    padding: 20px 15px;
+}
+.wrap input{
+    padding: 15px;
+}
